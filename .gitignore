@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+release/
+*.user
+
+# Visual Studio
+.vs/
+*.suo
+*.userprefs
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Published binaries
+publish/
