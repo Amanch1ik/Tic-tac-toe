@@ -13,7 +13,7 @@
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows"/>
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green"/>
 </p>
-
+ 
 ---
 
 ## Возможности
