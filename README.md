@@ -2,7 +2,7 @@
 
 > Классическая игра «Крестики-нолики» для двух игроков на Windows.
 > Реализована на **C#** с использованием **Windows Forms** (.NET 10).
-
+ 
 <p align="center">
   <img src="screenshots/03_win.png" alt="Победа игрока X" width="380"/>
 </p>
